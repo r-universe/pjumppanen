@@ -3,3 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BuildSys"]
+	path = BuildSys
+	url = https://github.com/pjumppanen/buildsys
+	shallow = true
+	subdir = BuildSys
+	registered = true
