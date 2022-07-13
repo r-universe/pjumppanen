@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "BuildSys",
+    "oncran": true
+  }
+]
