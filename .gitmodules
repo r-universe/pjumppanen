@@ -9,3 +9,8 @@
 	shallow = true
 	subdir = BuildSys
 	registered = true
+[submodule "keep"]
+	path = keep
+	url = https://github.com/cran/keep
+	shallow = true
+	registered = true
